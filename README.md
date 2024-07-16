@@ -1,7 +1,8 @@
 <h3 align="center">조영은</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=NestJS&logoColor=white" />
   <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>NestJS</title>
 
     
