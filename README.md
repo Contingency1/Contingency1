@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/NestJS-000000.svg?style=for-the-badge&logo=NestJS&logoColor=E0234E" />&nbsp
   <img src="https://img.shields.io/badge/dbeaver-55B7BE.svg?style=for-the-badge&logo=dbeaver&logoColor=382923" />&nbsp
-  <img src="https://img.shields.io/badge/dbeaver-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />&nbsp
   <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 
     
