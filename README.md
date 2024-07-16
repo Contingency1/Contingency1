@@ -1,7 +1,7 @@
 <h1 align="center"><b>조영은</b></h1>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/NestJS-000000.svg?style=for-the-badge&logo=NestJS&logoColor=E0234E" />&nbsp
   <img src="https://img.shields.io/badge/dbeaver-55B7BE.svg?style=for-the-badge&logo=dbeaver&logoColor=382923" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />&nbsp
