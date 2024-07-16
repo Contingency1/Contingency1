@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/NestJS-000000.svg?style=for-the-badge&logo=NestJS&logoColor=E0234E" />
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>NestJS</title>
+  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 
     
 ![Contigency1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Contingency1&show_icons=true&theme=blue_navy)
