@@ -1,7 +1,5 @@
 <h1 align="center"><b>조영은</b><br><b>Young-eun, Jo</b></h1>
-<div align="center">
-<img src="https://img.shields.io/badge/United Nations-009EDB.svg?style=for-the-badge&logo=unitednations&logoColor=20232a" />
-</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=20232a" />&nbsp
