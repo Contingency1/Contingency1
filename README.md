@@ -33,7 +33,7 @@
 </div>
 
 
-<a href="http://solved.ac/contingency1">
+<a href="http://solved.ac/profile/jo1814">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jo1814" alt="Solved.ac Tier" />
 </a>
 
