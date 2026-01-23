@@ -11,7 +11,7 @@
 
 <div align="center">
 
-## 📚 Stack
+# 📚 Stack
 
 <br>
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 <br>
 
