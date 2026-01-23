@@ -7,9 +7,11 @@
   "백엔드 개발자를 목표로 공부하고 있습니다."
 </p>
 
+---
+
 <div align="center">
 
-### 📚 Stack
+## 📚 Stack
 
 <br>
 
@@ -43,7 +45,7 @@
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
 <br>
 
