@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  "백엔드 개발자를 목표로 공부하고 있습니다."
+  어서오세요
 </p>
 
 ---
@@ -56,7 +56,7 @@
 | **정보처리산업기사**<br>(Industrial Engineer Information Processing)                                                                                | 한국산업인력공단<br>(HRDK)     | 2025.06.13 |
 | **정보처리기사**<br>(Engineer Information Processing)                                                                                               | 한국산업인력공단<br>(HRDK)     | 2025.09.12 |
 | **리눅스마스터 2급**<br>(Linux Master Level 2)                                                                                                      | 한국정보통신진흥협회<br>(KAIT) | 2025.10.03 |
-
+| **NCP Certified Professional**<br>(NAVER Cloud Platform Certified Professional)                                                          | 네이버 클라우드 플랫폼<br>(NCP) | 2026.07.24 |
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=Contingency1&show_icons=true&theme=blue_navy" alt="Contigency1's GitHub stats" />
